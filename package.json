@@ -1,0 +1,15 @@
+{
+  "name": "elm-starter",
+  "version": "0.0.1",
+  "description": "Getting started with elm",
+  "dependencies": {
+    "elm": "^0.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node_modules/.bin/elm reactor",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nadeem Khedr",
+  "license": "ISC"
+}
