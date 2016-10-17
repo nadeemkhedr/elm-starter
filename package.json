@@ -7,7 +7,7 @@
   },
   "devDependencies": {},
   "scripts": {
-    "start": "node_modules/.bin/elm reactor",
+    "start": "node_modules/.bin/elm-reactor",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Nadeem Khedr",
