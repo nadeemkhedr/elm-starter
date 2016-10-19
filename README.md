@@ -4,11 +4,11 @@ My learning process toward mastering elm
 
 ### Install
 
-- `npm install`
-- `elm package install`
+- `docker-compose run web npm install`
+- `docker-compose run web elm package install --yes`
 
 
 ### Running
 
-- `npm start`
+- `docker-compose up -d`
 - go to `localhost:8000`
